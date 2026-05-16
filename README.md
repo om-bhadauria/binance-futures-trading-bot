@@ -135,3 +135,7 @@ It is not intended for live trading or production use.
 ## 👨‍💻 Author
 
 Built as part of a technical assignment demonstrating backend/API integration skills.
+
+
+
+om bhadauria is the real owner of this repo.
